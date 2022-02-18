@@ -1,0 +1,15 @@
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 86px;
+  background: #ededed;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.col-product {
+  margin: 10px;
+  border-radius: 10px;
+  background: #ededed;
+}

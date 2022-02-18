@@ -1,0 +1,13 @@
+.buttonbuy-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 38px;
+    background-color: #00285F;
+    height: 40px;
+    width: 100%;
+}
+
+.buttonbuy-container h6{
+    color: #FFF;
+}
